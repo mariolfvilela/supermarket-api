@@ -40,7 +40,7 @@ namespace Supermarket.API
                         Description = "Simple RESTful API built with ASP.NET Core 2.2 to show how to create RESTful services using a decoupled, maintainable architecture.",
                         Contact = new Contact
                         {
-                            Name = "Evandro Gayer Gomes",
+                            Name = "Evandro Gayer Gomes and Mário",
                                 Url = "https://github.com/evgomes",
                         },
                         License = new License
